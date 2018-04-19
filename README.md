@@ -1,0 +1,2 @@
+[![CircleCI](https://circleci.com/gh/gitsah/Mobile-app-dev-in-class.svg?style=svg)](https://circleci.com/gh/gitsah/Mobile-app-dev-in-class)
+[![codecov](https://codecov.io/gh/gitsah/Mobile-app-dev-in-class/branch/master/graph/badge.svg)](https://codecov.io/gh/gitsah/Mobile-app-dev-in-class)
